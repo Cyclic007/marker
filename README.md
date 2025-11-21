@@ -15,3 +15,6 @@ It uses a  DWM1001 for wireless and has a USB-C port for interface
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0fd231f48a808054eac2103156a88b9a0dc67cf4\_screenshot\_2025-11-19\_165725.png)
 
+
+
+I can't get the PCB made any closer and I need to use JLC PCB
