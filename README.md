@@ -7,7 +7,7 @@ It uses a  DWM1001 for wireless and has a USB-C port for interface
 
 
 
-![](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1MzUsInB1ciI6ImJsb2JfaWQifX0=--d5f240d39aa3552332955d68b15db17f6bc3feab/image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2bb052a5d90821949578f5d2e7362814f5055a88_image.png)
 
 
 
